@@ -9,7 +9,7 @@ I’m Jay Prajapati, a B.Tech Computer Engineering student at [Aditya Silver Oak
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jay-prajapati-768213277/)](https://www.linkedin.com/in/jay-prajapati-768213277/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/jayprajapa1908)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j_a_y_1908/)](https://www.instagram.com/j_a_y_1908/)
-[![jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayprajapati1904&theme=react-dark)](https://github.com/jayprajapati1904)
+[![Jay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayprajapati1904&theme=react-dark)](https://github.com/jayprajapati1904)
 
 <!-- [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/harshilsarariya#9188) -->
 
